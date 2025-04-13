@@ -1,0 +1,21 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "react-learn",
+    "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevRutuja/react-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevRutuja/react-learning/issues"
+  },
+  "homepage": "https://github.com/DevRutuja/react-learning#readme",
+  "dependencies": {
+    "parcel": "^2.14.4"
+  }
+}
